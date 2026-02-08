@@ -21,17 +21,17 @@ A configurable ETL (Extract, Transform, Load) automation tool built with Python.
 
     * **Option A: HTTPS (Recommended for most users)**
         ```bash
-        git clone [https://github.com/cire1773/gmail-to-drive-archiver.git](https://github.com/cire1773/gmail-to-drive-archiver.git)
+        git clone [https://github.com/cire1773/gmail-attachment-archiver.git](https://github.com/cire1773/gmail-attachment-archiver.git)
         ```
 
     * **Option B: SSH (For users with SSH keys configured)**
         ```bash
-        git clone git@github.com:cire1773/gmail-to-drive-archiver.git
+        git clone git@github.com:cire1773/gmail-attachment-archiver.git
         ```
 
     Then, navigate into the project folder:
     ```bash
-    cd gmail-to-drive-archiver
+    cd gmail-attachment-archiver
     ```
 
 2.  **Create a Virtual Environment**
