@@ -1,1 +1,1 @@
-# attachments-gmail-to-drive
+Gmail to Drive Archiver: "A configurable ETL script that automates the backup of email attachments. It uses Google APIs to fetch files matching specific extensions (PDF, JPG, etc.) and organizes them into dated Google Drive folders."
